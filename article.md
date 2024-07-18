@@ -8,8 +8,8 @@ This Alpha and Beta Diversity Community Tutorial (run using QIIME 2017.12) walks
 
 The following files, derived from the [_Moving Pictures tutorial_](https://docs.qiime2.org/2017.12/tutorials/moving-pictures/), are used in this document.
 
-- [table.qza](https://docs.qiime2.org/2017.12/data/tutorials/moving-pictures/table.qza)
-- [rooted-tree.qza](https://docs.qiime2.org/2017.12/data/tutorials/moving-pictures/rooted-tree.qza)
+- [table.qza](table.qza)
+- [rooted-tree.qza](rooted-tree.qza)
 
 ## Alpha Diversity Analysis
 

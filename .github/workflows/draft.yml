@@ -9,8 +9,9 @@ jobs:
   create-preview-draft:
     uses: curvenote/actions/.github/workflows/draft.yml@v1
     with:
-      venue: '<VENUE>'
-      kind: '<SUBMISSION-KIND>'
+      venue: qiime2
+      kind: forum
+      collection: forum
     secrets:
       CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
       GITHUB: ${{ secrets.GITHUB_TOKEN }}

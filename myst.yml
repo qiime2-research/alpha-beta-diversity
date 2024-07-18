@@ -1,0 +1,27 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6b8662b4-38df-4724-98fb-872daf6d813b
+  title: About the Alpha and Beta Diversity Analysis Tutorial
+  description: This Alpha and Beta Diversity Community Tutorial (run using QIIME 2017.12) walks you through analyzing the alpha and beta diversity of a sample dataset. Below you will find a link to a small test dataset to download and use in this tutorial.
+  # keywords: []
+  authors:
+    - name: Stephanie Orchanian
+  keywords:
+    - qiime2
+    - microbiome
+  open_access: true
+  date: 2017/12/01
+  license: CC-BY-4.0
+  subject: Forum
+  venue: QIIME2 Research
+  github: https://github.com/qiime2
+  banner: banner.png
+  thumbnail: thumbnail.png
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: article-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
